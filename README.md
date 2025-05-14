@@ -45,8 +45,8 @@ You can deploy this app using [Streamlit Cloud](https://streamlit.io/cloud) or a
 ## 👤 Developer
 
 **Gildas Fiacre Agossou**  
-Environmental Scientist & Developer  
-📧 agossougildas@gmail.com
+Environmental Scientist  
+📧 gildas.agossou950@gmail.com
 
 ---
 
